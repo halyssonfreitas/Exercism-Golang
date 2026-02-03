@@ -19,3 +19,5 @@ In this way, for a better organization, in it document we organize by number, ti
 001 - Hello World - [hello-world](./go/hello-world/)
 
 002 - Gopher's Gorgeous Lasagna - [lasagna](./go/lasagna/)
+
+003 - Annalyn's Infiltration - [annalyns-infiltration](./go/annalyns-infiltration/)
