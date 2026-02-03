@@ -17,3 +17,5 @@ It's important to understand that lesson has a folder name stabalished by Exerci
 In this way, for a better organization, in it document we organize by number, title and folder name. The folder structure is only with folder name.
 
 001 - Hello World - [hello-world](./go/hello-world/)
+
+002 - Gopher's Gorgeous Lasagna - [lasagna](./go/lasagna/)
