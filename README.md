@@ -21,3 +21,5 @@ In this way, for a better organization, in it document we organize by number, ti
 002 - Gopher's Gorgeous Lasagna - [lasagna](./go/lasagna/)
 
 003 - Annalyn's Infiltration - [annalyns-infiltration](./go/annalyns-infiltration/)
+
+004 - Party Robot - [party-robot](./go/party-robot/)
