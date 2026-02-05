@@ -33,3 +33,5 @@ In this way, for a better organization, in it document we organize by number, ti
 008 - Cars Assemble - [cars-assemble](./go/cars-assemble/)
 
 009 - Vehicle Purchase - [vehicle-purchase](./go/vehicle-purchase/)
+
+010 - Gross Store - [gross-store](./go/gross-store/)
