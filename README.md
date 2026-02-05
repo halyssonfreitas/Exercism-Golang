@@ -27,3 +27,5 @@ In this way, for a better organization, in it document we organize by number, ti
 005 - Weather Forecast - [weather-forecast](./go/weather-forecast/)
 
 006 - Blackjack - [blackjack](./go/blackjack/)
+
+007 - Booking up for Beauty - [booking-up-for-beauty](./go/booking-up-for-beauty/)
