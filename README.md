@@ -31,3 +31,5 @@ In this way, for a better organization, in it document we organize by number, ti
 007 - Booking up for Beauty - [booking-up-for-beauty](./go/booking-up-for-beauty/)
 
 008 - Cars Assemble - [cars-assemble](./go/cars-assemble/)
+
+009 - Vehicle Purchase - [vehicle-purchase](./go/vehicle-purchase/)
