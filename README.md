@@ -45,3 +45,5 @@ In this way, for a better organization, in it document we organize by number, ti
 014 - Bird Watcher - [bird-watcher](./go/bird-watcher/)
 
 015 - Card Tricks - [card-tricks](./go/card-tricks/)
+
+016 - Logs, Logs, Logs! - [logs-logs-logs](./go/logs-logs-logs/)
