@@ -14,7 +14,7 @@ See instruction in [CLI](https://exercism.org/settings/api_cli)
 
 It's important to understand that lesson has a folder name stabalished by Exercism platform. This can't be change.
 
-In this way, for a better organization, in it document we organize by number, title and folder name. The folder structure is only with folder name.
+In this way, for a better organization, in it document we organize by number, title and folder link. The folder structure is only with folder name.
 
 001 - Hello World - [hello-world](./go/hello-world/)
 
@@ -43,3 +43,5 @@ In this way, for a better organization, in it document we organize by number, ti
 013 - Elon's Toys - [jedliks-toys](./go/jedliks-toys/)
 
 014 - Bird Watcher - [bird-watcher](./go/bird-watcher/)
+
+015 - Card Tricks - [card-tricks](./go/card-tricks/)
