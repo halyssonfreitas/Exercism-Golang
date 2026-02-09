@@ -61,3 +61,5 @@ In this way, for a better organization, in it document we organize by number, ti
 022 - Welcome To Tech Palace! - [welcome-to-tech-palace](./go/welcome-to-tech-palace/)
 
 023 - Election Day - [election-day](./go/election-day/)
+
+024 - Interest is Interesting - [interest-is-interesting](./go/interest-is-interesting/)
