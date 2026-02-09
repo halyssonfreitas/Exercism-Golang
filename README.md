@@ -63,3 +63,5 @@ In this way, for a better organization, in it document we organize by number, ti
 023 - Election Day - [election-day](./go/election-day/)
 
 024 - Interest is Interesting - [interest-is-interesting](./go/interest-is-interesting/)
+
+025 - Expenses - [expenses](./go/expenses/)
