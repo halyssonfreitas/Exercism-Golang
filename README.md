@@ -1,6 +1,6 @@
 # Exercism Golang
 
-This is a repository to store my progress in Exercism platforme.
+This is a repository to store my progress in Exercism platform.
 
 See [Exercismo Golang](https://exercism.org/tracks/go)
 
@@ -53,3 +53,5 @@ In this way, for a better organization, in it document we organize by number, ti
 018 - Chessboard - [chessboard](./go/chessboard/)
 
 019 - Airport Robot - [airport-robot](./go/airport-robot/)
+
+020 - The Farm - [the-farm](./go/the-farm/)
