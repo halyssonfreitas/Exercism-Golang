@@ -65,3 +65,5 @@ In this way, for a better organization, in it document we organize by number, ti
 024 - Interest is Interesting - [interest-is-interesting](./go/interest-is-interesting/)
 
 025 - Expenses - [expenses](./go/expenses/)
+
+026 - Animal Magic - [animal-magic](./go/animal-magic/)
