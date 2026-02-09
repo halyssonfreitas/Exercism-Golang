@@ -57,3 +57,5 @@ In this way, for a better organization, in it document we organize by number, ti
 020 - The Farm - [the-farm](./go/the-farm/)
 
 021 - Census - [census](./go/census/)
+
+022 - Welcome To Tech Palace! - [welcome-to-tech-palace](./go/welcome-to-tech-palace/)
