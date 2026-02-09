@@ -49,3 +49,5 @@ In this way, for a better organization, in it document we organize by number, ti
 016 - Logs, Logs, Logs! - [logs-logs-logs](./go/logs-logs-logs/)
 
 017 - Sorting Room - [sorting-room](./go/sorting-room/)
+
+018 - Chessboard - [chessboard](./go/chessboard/)
