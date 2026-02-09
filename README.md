@@ -59,3 +59,5 @@ In this way, for a better organization, in it document we organize by number, ti
 021 - Census - [census](./go/census/)
 
 022 - Welcome To Tech Palace! - [welcome-to-tech-palace](./go/welcome-to-tech-palace/)
+
+023 - Election Day - [election-day](./go/election-day/)
