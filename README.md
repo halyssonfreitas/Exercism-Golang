@@ -55,3 +55,5 @@ In this way, for a better organization, in it document we organize by number, ti
 019 - Airport Robot - [airport-robot](./go/airport-robot/)
 
 020 - The Farm - [the-farm](./go/the-farm/)
+
+021 - Census - [census](./go/census/)
