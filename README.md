@@ -69,3 +69,5 @@ In this way, for a better organization, in it document we organize by number, ti
 026 - Animal Magic - [animal-magic](./go/animal-magic/)
 
 027 - Parsing Log Files - [parsing-log-files](./go/parsing-log-files/)
+
+028 - Meteorology - [meteorology](./go/meteorology/)
