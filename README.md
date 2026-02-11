@@ -77,3 +77,5 @@ In this way, for a better organization, in it document we organize by number, ti
 030 - Raindrops - [raindrops](./go/raindrops/)
 
 031 - Collatz Conjecture - [collatz-conjecture](./go/collatz-conjecture/)
+
+032 - Gigasecond - [gigasecond](./go/gigasecond/)
