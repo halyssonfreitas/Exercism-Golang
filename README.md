@@ -2,7 +2,7 @@
 
 This is a repository to store my progress in Exercism platform.
 
-See [Exercismo Golang](https://exercism.org/tracks/go)
+See [Exercism Golang](https://exercism.org/tracks/go)
 
 ## About Exercism way
 
@@ -73,3 +73,5 @@ In this way, for a better organization, in it document we organize by number, ti
 028 - Meteorology - [meteorology](./go/meteorology/)
 
 029 - Two Fer - [two-fer](./go/two-fer/)
+
+030 - Raindrops - [raindrops](./go/raindrops/)
