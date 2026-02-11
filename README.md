@@ -75,3 +75,5 @@ In this way, for a better organization, in it document we organize by number, ti
 029 - Two Fer - [two-fer](./go/two-fer/)
 
 030 - Raindrops - [raindrops](./go/raindrops/)
+
+031 - Collatz Conjecture - [collatz-conjecture](./go/collatz-conjecture/)
