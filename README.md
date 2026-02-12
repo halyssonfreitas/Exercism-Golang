@@ -81,3 +81,5 @@ In this way, for a better organization, in it document we organize by number, ti
 032 - Gigasecond - [gigasecond](./go/gigasecond/)
 
 033 - Hamming - [hamming](./go/hamming/)
+
+034 - Scrabble Score - [scrabble-score](./go/scrabble-score/)
