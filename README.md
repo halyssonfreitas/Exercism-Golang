@@ -83,3 +83,5 @@ In this way, for a better organization, in it document we organize by number, ti
 033 - Hamming - [hamming](./go/hamming/)
 
 034 - Scrabble Score - [scrabble-score](./go/scrabble-score/)
+
+035 - Leap - [leap](./go/leap/)
