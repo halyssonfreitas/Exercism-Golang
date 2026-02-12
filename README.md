@@ -79,3 +79,5 @@ In this way, for a better organization, in it document we organize by number, ti
 031 - Collatz Conjecture - [collatz-conjecture](./go/collatz-conjecture/)
 
 032 - Gigasecond - [gigasecond](./go/gigasecond/)
+
+033 - Hamming - [hamming](./go/hamming/)
