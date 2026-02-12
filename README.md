@@ -85,3 +85,5 @@ In this way, for a better organization, in it document we organize by number, ti
 034 - Scrabble Score - [scrabble-score](./go/scrabble-score/)
 
 035 - Leap - [leap](./go/leap/)
+
+036 - Isogram - [isogram](./go/isogram/)
