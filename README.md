@@ -87,3 +87,5 @@ In this way, for a better organization, in it document we organize by number, ti
 035 - Leap - [leap](./go/leap/)
 
 036 - Isogram - [isogram](./go/isogram/)
+
+037 - Difference of Squares - [difference-of-squares](./go/difference-of-squares/)
