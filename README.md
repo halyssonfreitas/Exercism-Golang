@@ -103,3 +103,5 @@ In this way, for a better organization, in it document we organize by number, ti
 043 - Strain - [strain](./go/strain/)
 
 044 - Pangram - [pangram](./go/pangram/)
+
+045 - Reverse String - [reverse-string](./go/reverse-string/)
