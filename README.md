@@ -99,3 +99,5 @@ In this way, for a better organization, in it document we organize by number, ti
 041 - Nucleotide Count - [nucleotide-count](./go/nucleotide-count/)
 
 042 - RNA Transcription - [rna-transcription](./go/rna-transcription/)
+
+043 - Strain - [strain](./go/strain/)
