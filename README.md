@@ -91,3 +91,5 @@ In this way, for a better organization, in it document we organize by number, ti
 037 - Difference of Squares - [difference-of-squares](./go/difference-of-squares/)
 
 038 - Luhn - [luhn](./go/luhn/)
+
+039 - Resistor Color - [resistor-color](./go/resistor-color/)
