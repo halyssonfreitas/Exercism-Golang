@@ -95,3 +95,5 @@ In this way, for a better organization, in it document we organize by number, ti
 039 - Resistor Color - [resistor-color](./go/resistor-color/)
 
 040 - Space Age - [space-age](./go/space-age/)
+
+041 - Nucleotide Count - [nucleotide-count](./go/nucleotide-count/)
