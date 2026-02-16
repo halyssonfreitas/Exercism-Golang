@@ -107,3 +107,5 @@ In this way, for a better organization, in it document we organize by number, ti
 045 - Reverse String - [reverse-string](./go/reverse-string/)
 
 046 - Darts - [darts](./go/darts/)
+
+047 - D&D Character - [dnd-character](./go/dnd-character/)
