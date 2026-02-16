@@ -105,3 +105,5 @@ In this way, for a better organization, in it document we organize by number, ti
 044 - Pangram - [pangram](./go/pangram/)
 
 045 - Reverse String - [reverse-string](./go/reverse-string/)
+
+046 - Darts - [darts](./go/darts/)
