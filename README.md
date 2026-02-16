@@ -93,3 +93,5 @@ In this way, for a better organization, in it document we organize by number, ti
 038 - Luhn - [luhn](./go/luhn/)
 
 039 - Resistor Color - [resistor-color](./go/resistor-color/)
+
+040 - Space Age - [space-age](./go/space-age/)
