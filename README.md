@@ -125,3 +125,5 @@ In this way, for a better organization, in it document we organize by number, ti
 054 - Resistor Color Duo - [resistor-color-duo](./go/resistor-color-duo/)
 
 055 - Clock - [clock](./go/clock/)
+
+056 - Triangle - [triangle](./go/triangle/)
