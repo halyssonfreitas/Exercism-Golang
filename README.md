@@ -127,3 +127,5 @@ In this way, for a better organization, in it document we organize by number, ti
 055 - Clock - [clock](./go/clock/)
 
 056 - Triangle - [triangle](./go/triangle/)
+
+057 - Proverb - [proverb](./go/proverb/)
