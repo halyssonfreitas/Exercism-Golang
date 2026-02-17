@@ -123,3 +123,5 @@ In this way, for a better organization, in it document we organize by number, ti
 053 - Rotational Cipher - [rotational-cipher](./go/rotational-cipher/)
 
 054 - Resistor Color Duo - [resistor-color-duo](./go/resistor-color-duo/)
+
+055 - Clock - [clock](./go/clock/)
