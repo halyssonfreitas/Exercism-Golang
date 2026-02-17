@@ -111,3 +111,5 @@ In this way, for a better organization, in it document we organize by number, ti
 047 - D&D Character - [dnd-character](./go/dnd-character/)
 
 048 - ETL - [etl](./go/etl/)
+
+049 - Bob - [bob](./go/bob/)
