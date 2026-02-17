@@ -121,3 +121,5 @@ In this way, for a better organization, in it document we organize by number, ti
 052 - ISBN Verifier - [isbn-verifier](./go/isbn-verifier/)
 
 053 - Rotational Cipher - [rotational-cipher](./go/rotational-cipher/)
+
+054 - Resistor Color Duo - [resistor-color-duo](./go/resistor-color-duo/)
