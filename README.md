@@ -117,3 +117,5 @@ In this way, for a better organization, in it document we organize by number, ti
 050 - Grains - [grains](./go/grains/)
 
 051 - Roman Numerals - [roman-numerals](./go/roman-numerals/)
+
+052 - ISBN Verifier - [isbn-verifier](./go/isbn-verifier/)
