@@ -133,3 +133,5 @@ In this way, for a better organization, in it document we organize by number, ti
 058 - Protein Translation - [protein-translation](./go/protein-translation/)
 
 059 - Anagram - [anagram](./go/anagram/)
+
+060 - Word Count - [word-count](./go/word-count/)
