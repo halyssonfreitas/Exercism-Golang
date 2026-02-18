@@ -131,3 +131,5 @@ In this way, for a better organization, in it document we organize by number, ti
 057 - Proverb - [proverb](./go/proverb/)
 
 058 - Protein Translation - [protein-translation](./go/protein-translation/)
+
+059 - Anagram - [anagram](./go/anagram/)
