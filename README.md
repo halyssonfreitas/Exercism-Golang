@@ -137,3 +137,5 @@ In this way, for a better organization, in it document we organize by number, ti
 060 - Word Count - [word-count](./go/word-count/)
 
 061 - Largest Series Product - [largest-series-product](./go/largest-series-product/)
+
+062 - Nth Prime - [nth-prime](./go/nth-prime/)
